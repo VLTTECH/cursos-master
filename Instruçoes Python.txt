@@ -1,0 +1,38 @@
+INPUT
+o comando input do python tranforma em inteiro
+é preciso comverter para o tipo correto
+
+IF ELSE ELIF
+quando do valor de uma variável  não correponde a nenhuma das condições nada acontece
+
+INTERPOLAÇÃO DE STRING
+colocar chaves em uma string {} depois no final escrever .format(Variável)
+colocar o indice dentro das chaves é possivel inverter os valores
+dentro das chaves é permitido também aplicar os valores para definir os algarismos 
+{ 07.2f}   0 preenche com zeros \ 7 numero de casas antes da virgula\ 2 casas após a virgula \ f dizer que é float
+colocando {:02d} define o número de digitos
+
+CONTINUE
+o comando continue pula para a próxima Iteração 
+
+ROUND
+função arredondar
+
+ABS
+devolve o módulo de um numero
+
+EXECUÇÂO DE ARQUIVO PY
+Um arquivo ptthon só executa sua propria função quando a variável __name__ é igual a __main__
+no momento de importar uma função em poutro arquivos a função funciona
+no momento que se executa o arquivo da função ela também de executará desde que no final do codigo tenhamos a seguinte expressão
+if(__name__==__name__)
+    Funçãoxx()
+
+NOT
+Afirmação booleana para definição de atributo
+
+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
+
+
+
+    
